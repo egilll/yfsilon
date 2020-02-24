@@ -25,7 +25,7 @@
 })()
 /*
 
-  Öll y yfir í í
+  Öll y yfir í i
 
 */
 (function() {
